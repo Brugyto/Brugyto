@@ -10,7 +10,7 @@
 
 ## Proyectos Destacados
 
-### [CryptoTracker](https://github.com/Brugyto/CryptoTracker)
+### [CryptoTracker](https://github.com/Brugyto/CriptoRastreador))
 Un rastreador de criptomonedas que te permite seguir los precios en tiempo real, desarrollado en Python.
 
 ### [SmartHomeHub](https://github.com/Brugyto/SmartHomeHub)
