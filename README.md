@@ -10,13 +10,13 @@
 
 ## Proyectos Destacados
 
-### [CryptoTracker](https://github.com/Bugyto/CryptoTracker)
+### [CryptoTracker](https://github.com/Brugyto/CryptoTracker)
 Un rastreador de criptomonedas que te permite seguir los precios en tiempo real, desarrollado en Python.
 
-### [SmartHomeHub](https://github.com/Bugyto/SmartHomeHub)
+### [SmartHomeHub](https://github.com/Brugyto/SmartHomeHub)
 Una plataforma para gestionar dispositivos del hogar inteligente, construida con JavaScript y Node.js.
 
-### [TravelBuddy](https://github.com/Bugyto/TravelBuddy)
+### [TravelBuddy](https://github.com/Brugyto/TravelBuddy)
 Una aplicación de planificación de viajes que te ayuda a descubrir destinos y organizar tu itinerario, creada con React.
 
 ## Organización - CodeBugs
