@@ -28,8 +28,8 @@ Breve descripción del proyecto 2.
 
 ## Contacto
 
-- 📧 Correo Electrónico: [tu@email.com]
-- 🔗 LinkedIn: [Tu Perfil de LinkedIn]
+- 📧 Correo Electrónico: []
+- 🔗 LinkedIn: []
 - 🐦 Twitter: [@Brugyto]
 
 ¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contactarme si tienes alguna pregunta o sugerencia.
