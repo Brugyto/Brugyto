@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Brugyto] - aka Bugyto
+# ¡Hola! 👋 Soy [Brugyto] - aka Brugyto
 
 ¡Bienvenido a mi rincón en GitHub! Soy un apasionado de la programación y me encanta contribuir a proyectos emocionantes. A continuación, encontrarás información sobre algunos de mis proyectos y mi participación en una organización llamada "CodeBugs."
 
