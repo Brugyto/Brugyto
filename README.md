@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy [Brugyto]
 
 ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta de la tecnología y me encanta contribuir a proyectos interesantes. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
