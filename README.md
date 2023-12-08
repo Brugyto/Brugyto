@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy [Brugyto]
+# ¡Hola! 👋 Soy [Brugyto] - aka Bugyto
 
-¡Bienvenido a mi perfil de GitHub! Soy un entusiasta de la tecnología y me encanta contribuir a proyectos interesantes. Aquí encontrarás algunos de mis proyectos y contribuciones.
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado de la programación y me encanta contribuir a proyectos emocionantes. A continuación, encontrarás información sobre algunos de mis proyectos y mi participación en una organización ficticia llamada "CodeBugs."
 
 ## Acerca de mí
 
@@ -10,26 +10,39 @@
 
 ## Proyectos Destacados
 
-### [Nombre del Proyecto 1](enlace_al_proyecto_1)
-Breve descripción del proyecto 1.
+### [CryptoTracker](https://github.com/Bugyto/CryptoTracker)
+Un rastreador de criptomonedas que te permite seguir los precios en tiempo real, desarrollado en Python.
 
-### [Nombre del Proyecto 2](enlace_al_proyecto_2)
-Breve descripción del proyecto 2.
+### [SmartHomeHub](https://github.com/Bugyto/SmartHomeHub)
+Una plataforma para gestionar dispositivos del hogar inteligente, construida con JavaScript y Node.js.
+
+### [TravelBuddy](https://github.com/Bugyto/TravelBuddy)
+Una aplicación de planificación de viajes que te ayuda a descubrir destinos y organizar tu itinerario, creada con React.
+
+## Organización - CodeBugs
+
+CodeBugs es una organización dedicada a la codificación y el desarrollo de soluciones innovadoras. Aquí hay algunos de nuestros proyectos:
+
+### [CodeForGood](https://github.com/CodeBugs/CodeForGood)
+Una iniciativa para desarrollar soluciones tecnológicas que aborden problemas sociales y comunitarios.
+
+### [TechTalks](https://github.com/CodeBugs/TechTalks)
+Sesiones mensuales de charlas y talleres sobre las últimas tendencias y tecnologías en el mundo de la informática.
 
 ## Habilidades
 
-- 💻 Lenguajes de Programación: [Lista de lenguajes]
-- 🛠️ Herramientas y Tecnologías: [Lista de herramientas y tecnologías]
+- 💻 Lenguajes de Programación: JavaScript, Python, HTML, CSS
+- 🛠️ Herramientas y Tecnologías: React, Node.js, Git, Docker
 
 ## Contribuciones
 
-- [Enlace a Contribuciones 1](enlace_a_contribucion_1)
-- [Enlace a Contribuciones 2](enlace_a_contribucion_2)
+- [Contribución a OpenSourceApp](https://github.com/Bugyto/OpenSourceApp)
+- [Colaboración en AwesomeTech](https://github.com/Bugyto/AwesomeTech)
 
 ## Contacto
 
 - 📧 Correo Electrónico: []
 - 🔗 LinkedIn: []
-- 🐦 Twitter: [@Brugyto]
+- 🐦 Twitter: []
 
-¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contactarme si tienes alguna pregunta o sugerencia.
+¡Gracias por explorar mi perfil! No dudes en contactarme si tienes preguntas o sugerencias.
