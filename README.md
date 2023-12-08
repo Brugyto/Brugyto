@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy [Brugyto] - aka Bugyto
 
-¡Bienvenido a mi rincón en GitHub! Soy un apasionado de la programación y me encanta contribuir a proyectos emocionantes. A continuación, encontrarás información sobre algunos de mis proyectos y mi participación en una organización ficticia llamada "CodeBugs."
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado de la programación y me encanta contribuir a proyectos emocionantes. A continuación, encontrarás información sobre algunos de mis proyectos y mi participación en una organización llamada "CodeBugs."
 
 ## Acerca de mí
 
