@@ -21,9 +21,9 @@ Una aplicación de planificación de viajes que te ayuda a descubrir destinos y 
 
 ## Organización - CodeBugs
 
-CodeBugs es una organización dedicada a la codificación y el desarrollo de soluciones innovadoras. Aquí hay algunos de nuestros proyectos:
+CodeBrugs es una organización dedicada a la codificación y el desarrollo de soluciones innovadoras. Aquí hay algunos de nuestros proyectos:
 
-### [CodeForGood](https://github.com/CodeBugs/CodeForGood)
+### [CodeForGood](https://github.com/CodeBrugs/CodeForGood)
 Una iniciativa para desarrollar soluciones tecnológicas que aborden problemas sociales y comunitarios.
 
 ### [TechTalks](https://github.com/CodeBugs/TechTalks)
