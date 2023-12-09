@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy [Brugyto] - aka Brugyto
 
-¡Bienvenido a mi rincón en GitHub! Soy un apasionado de la programación y me encanta contribuir a proyectos emocionantes. A continuación, encontrarás información sobre algunos de mis proyectos y mi participación en una organización llamada "CodeBugs."
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado de la programación y me encanta contribuir a proyectos emocionantes. A continuación, encontrarás información sobre algunos de mis proyectos y mi participación en una organización llamada "CodeBrugs."
 
 ## Acerca de mí
 
@@ -19,14 +19,14 @@ Una plataforma para gestionar dispositivos del hogar inteligente, construida con
 ### [TravelBuddy](https://github.com/Brugyto/TravelBuddy)
 Una aplicación de planificación de viajes que te ayuda a descubrir destinos y organizar tu itinerario, creada con React.
 
-## Organización - CodeBugs
+## Organización - CodeBrugs
 
 CodeBrugs es una organización dedicada a la codificación y el desarrollo de soluciones innovadoras. Aquí hay algunos de nuestros proyectos:
 
 ### [CodeForGood](https://github.com/CodeBrugs/CodeForGood)
 Una iniciativa para desarrollar soluciones tecnológicas que aborden problemas sociales y comunitarios.
 
-### [TechTalks](https://github.com/CodeBugs/TechTalks)
+### [TechTalks](https://github.com/CodeBrugs/TechTalks)
 Sesiones mensuales de charlas y talleres sobre las últimas tendencias y tecnologías en el mundo de la informática.
 
 ## Habilidades
