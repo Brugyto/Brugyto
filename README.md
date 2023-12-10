@@ -19,15 +19,31 @@ Una plataforma para gestionar dispositivos del hogar inteligente, construida con
 ### [TravelBuddy](https://github.com/Brugyto/TravelBuddy)
 Una aplicación de planificación de viajes que te ayuda a descubrir destinos y organizar tu itinerario, creada con React.
 
-## Organización - CodeBrugs
+## Organización - [CodeBrugs](https://github.com/CodeBrugs)
 
-CodeBrugs es una organización dedicada a la codificación y el desarrollo de soluciones innovadoras. Aquí hay algunos de nuestros proyectos:
+¡Bienvenido a CódigoBrugs en GitHub!
 
-### [CodeForGood](https://github.com/CodeBrugs/CodeForGood)
-Una iniciativa para desarrollar soluciones tecnológicas que aborden problemas sociales y comunitarios.
+## Sobre Nosotros
 
-### [TechTalks](https://github.com/CodeBrugs/TechTalks)
-Sesiones mensuales de charlas y talleres sobre las últimas tendencias y tecnologías en el mundo de la informática.
+CódigoBrugs es una comunidad vibrante y diversa comprometida con el desarrollo de software, la innovación y la colaboración. Nuestro objetivo es crear un espacio inclusivo donde los desarrolladores puedan aprender, compartir conocimientos y contribuir a proyectos emocionantes.
+
+## Nuestra Misión
+
+Fomentamos la pasión por la tecnología y la programación, promoviendo un entorno de aprendizaje continuo y apoyando iniciativas que impulsen la innovación en el mundo del software.
+
+## Proyectos Destacados
+
+### [Proyecto-Awesome](https://github.com/CodeBrugs/Proyecto-Awesome)
+
+Proyecto-Awesome es una plataforma que reúne las herramientas, recursos y tecnologías más interesantes del mundo del desarrollo de software. Únete a nosotros para explorar y contribuir a esta creciente colección de recursos útiles.
+
+### [InnovadorApp](https://github.com/CodeBrugs/InnovadorApp)
+
+InnovadorApp es una aplicación innovadora diseñada para abordar desafíos específicos en [industria o campo de aplicación]. Si te apasiona la creación de soluciones impactantes, este proyecto es perfecto para ti.
+
+### [DatosSeguros](https://github.com/CodeBrugs/DatosSeguros)
+
+DatosSeguros se centra en garantizar la seguridad y privacidad de los datos en aplicaciones y sistemas. Únete a nosotros para trabajar en soluciones que protejan la información sensible y promuevan prácticas seguras.
 
 ## Habilidades
 
