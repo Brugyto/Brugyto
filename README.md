@@ -4,9 +4,9 @@
 
 ## Acerca de mí
 
-- 🌍 Ubicación: [Tu Ubicación]
+- 🌍 Ubicación: []
 - 💼 Profesión: Desarrollador de Software
-- 🎓 Educación: [Tu Educación]
+- 🎓 Educación: []
 
 ## Proyectos Destacados
 
