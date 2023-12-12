@@ -21,11 +21,11 @@ Una aplicación de planificación de viajes que te ayuda a descubrir destinos y 
 
 ## Organización - [CodeBrugs](https://github.com/CodeBrugs)
 
-¡Bienvenido a CódigoBrugs en GitHub!
+¡Bienvenido a CódeBrugs en GitHub!
 
 ## Sobre Nosotros
 
-CódigoBrugs es una comunidad vibrante y diversa comprometida con el desarrollo de software, la innovación y la colaboración. Nuestro objetivo es crear un espacio inclusivo donde los desarrolladores puedan aprender, compartir conocimientos y contribuir a proyectos emocionantes.
+CódeBrugs es una comunidad vibrante y diversa comprometida con el desarrollo de software, la innovación y la colaboración. Nuestro objetivo es crear un espacio inclusivo donde los desarrolladores puedan aprender, compartir conocimientos y contribuir a proyectos emocionantes.
 
 ## Nuestra Misión
 
