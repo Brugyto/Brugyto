@@ -39,7 +39,7 @@ Proyecto-Awesome es una plataforma que reúne las herramientas, recursos y tecno
 
 ### [InnovadorApp](https://github.com/CodeBrugs/InnovadorApp)
 
-InnovadorApp es una aplicación innovadora diseñada para abordar desafíos específicos en [industria o campo de aplicación]. Si te apasiona la creación de soluciones impactantes, este proyecto es perfecto para ti.
+InnovadorApp es una aplicación innovadora diseñada para abordar desafíos específicos en [salud]. Si te apasiona la creación de soluciones impactantes, este proyecto es perfecto para ti.
 
 ### [DatosSeguros](https://github.com/CodeBrugs/DatosSeguros)
 
