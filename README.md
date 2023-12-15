@@ -21,7 +21,7 @@ Una aplicación de planificación de viajes que te ayuda a descubrir destinos y 
 
 ## Organización - [CodeBrugs](https://github.com/CodeBrugs)
 
-¡Bienvenido a CódeBrugs en GitHub!
+¡Bienvenido a CódeBrugs!
 
 ## Sobre Nosotros
 
